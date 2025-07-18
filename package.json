@@ -1,5 +1,5 @@
 {
-  "name": "s79-backend",
+  "name": "backend-s79",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
